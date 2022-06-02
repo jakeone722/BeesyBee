@@ -76,7 +76,6 @@
 <img src="README.assets/image-20220526221946950.png" alt="image-20220526221946950" style="zoom: 50%;" align="left"/>
 
 - 전재권
-
   - SSAFY 7기
   - Backend
     - TMDB data pre-processing part
