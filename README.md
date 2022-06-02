@@ -77,11 +77,9 @@
 - 전재권
 
   - SSAFY 7기
-
   - Backend
     - TMDB data pre-processing part
     - Django Authorization & Authentication part
- 
   - Frontend
     - Vuex-store structure part
     - Vue-CSS part
@@ -97,7 +95,6 @@
     - Movie Lens data pre-processing part
     - Django model & form & serializer part
     - API management part
-   
   - Frontend
     - UI/UX planning part
 
