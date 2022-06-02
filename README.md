@@ -84,9 +84,6 @@
     - Vuex-store structure part
     - Vue-CSS part
 
-    
-    
-    
 
 <img src="README.assets/image-20220526222723712.png" alt="image-20220526222723712" style="zoom:50%;" align="left"/>
 
